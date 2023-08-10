@@ -4,7 +4,7 @@ Rastgele karakter oluşturup bu karaktere rastgele bir renk atayarak onu bizden 
 Daha fazla bilgi için ödev raporuna bakın.
 
 # Requirements for Assignment
-[What We Were Asked For](RequestedRequirements.pdf)
+[What We Were Asked For](<Requested in Assignment.pdf>)
 
 # My Report That I Prepared About Assignment
-[My Report About Assignment](Report.pdf)
+[My Report About Assignment](<Assignment Paper.pdf>)
